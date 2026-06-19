@@ -92,7 +92,7 @@ export const profile = {
     },
     journey: {
       label: "Journey",
-      title: "Roadmap.",
+      title: "Journey.",
       subtitle:
         "My academic journey, projects, and achievements so far.",
     },
