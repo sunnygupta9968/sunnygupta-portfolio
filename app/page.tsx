@@ -7,7 +7,7 @@ import { Education } from "@/components/sections/education";
 import { Projects } from "@/components/sections/projects";
 import { Achievements } from "@/components/sections/achievements";
 import { CodingStats } from "@/components/sections/coding-stats";
-import { ResumeHighlights } from "@/components/sections/resume-highlights";
+import { ResumeHighlights } from "@/components/sections/resume-highlights"
 import { Contact } from "@/components/sections/contact";
 import { Footer } from "@/components/footer";
 import { profile } from "@/data/profile";
