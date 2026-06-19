@@ -1,0 +1,68 @@
+# Dependencies
+node_modules/
+
+# Package manager logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Next.js
+.next/
+out/
+
+# Build and test output
+dist/
+build/
+coverage/
+
+# Environment and secrets
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+.env*.local
+!.env.example
+
+# Local databases and credentials
+*.db
+*.sqlite
+*.sqlite3
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating systems
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Temporary files and caches
+.tmp/
+.temp/
+.cache/
+tmp/
+
+# Deployment providers
+.vercel/
+.netlify/
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Local AI/tooling state
+.agents/
+.codex/
+
