@@ -1,4 +1,4 @@
-import { CheckCircle2, FileText } from "lucide-react";
+import { ArrowUpRight, CheckCircle2, FileText } from "lucide-react";
 import { profile } from "@/data/profile";
 import { Reveal } from "@/components/ui/reveal";
 import { SectionHeading } from "@/components/ui/section-heading";
@@ -61,6 +61,15 @@ export function ResumeHighlights() {
                 <p className="mt-2 text-sm font-semibold leading-relaxed">
                   {certification.description}
                 </p>
+                <a
+                  className="brutal-button mt-4 min-h-10 bg-[#F9C74F] px-3 py-2 text-xs"
+                  href={certification.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  View Certificate
+                  <ArrowUpRight size={15} aria-hidden />
+                </a>
               </div>
             ))}
           </Reveal>

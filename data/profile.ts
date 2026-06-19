@@ -459,6 +459,7 @@ export const profile = {
       issuer: "Coursera - Andrew Ng, DeepLearning.AI",
       description:
         "Covered linear regression, logistic regression, gradient descent, feature engineering, regression, and classification fundamentals.",
+      url: "https://www.coursera.org/account/accomplishments/verify/E5UHUOWW6Q77?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course",
     },
   ],
 
