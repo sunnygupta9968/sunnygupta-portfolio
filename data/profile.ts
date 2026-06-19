@@ -17,7 +17,7 @@ export const profile = {
       "B.Tech CSE",
     ],
     copyright:
-      "Built from real resume data, playful systems thinking, and crisp 3px borders.",
+      "A collection of projects, experiences, and continuous learning.",
     backToTop: "Back to top",
     menuOpen: "Open navigation",
     menuClose: "Close navigation",
@@ -34,9 +34,9 @@ export const profile = {
     greeting: "Hi, I'm",
     title: "Full-Stack Developer & B.Tech CSE Student",
     subtitle:
-      "I build scalable, database-driven web apps with Java, Spring Boot, React, Redis, Docker, and a competitive-programming mindset.",
+      "I build full-stack web applications using Java, Spring Boot, React, Redis, and modern web technologies.",
     headline:
-      "Final-year Computer Science student turning backend-heavy product ideas into reliable, recruiter-ready software.",
+      "Final-year Computer Science student building full-stack applications with a strong focus on backend engineering and problem solving.",
     bio:
       "Final-year B.Tech CSE student with hands-on experience in full-stack web development using Java, Spring Boot, React.js, MySQL, and Redis. I enjoy building REST APIs, authentication systems, database-driven applications, and cloud-deployed products with clean engineering foundations.",
     location: "Noida, Uttar Pradesh",
@@ -82,25 +82,25 @@ export const profile = {
       label: "Personal story",
       title: "About.",
       subtitle:
-        "A practical builder who likes strong backends, clear UI, and measurable outcomes.",
+        "I enjoy building software that is reliable, easy to use, and solves real problems.",
     },
     recruiter: {
       label: "Recruiter quick view",
       title: "Fast facts.",
       subtitle:
-        "The key details a recruiter should not have to hunt for.",
+        "A quick overview of my background and skills.",
     },
     journey: {
-      label: "Interactive developer journey",
+      label: "Journey",
       title: "Roadmap.",
       subtitle:
-        "Education, projects, achievements, and growth mapped as one continuous story.",
+        "My academic journey, projects, and achievements so far.",
     },
     skills: {
       label: "Interactive skills galaxy",
       title: "Skills.",
       subtitle:
-        "Clusters of the tools, languages, and fundamentals I use to ship reliable software.",
+        "Technologies and concepts I use in my projects.",
     },
     education: {
       label: "Where I study",
@@ -112,7 +112,7 @@ export const profile = {
       label: "Dynamic project spotlight",
       title: "Projects.",
       subtitle:
-        "Resume projects categorized into featured builds and supporting systems.",
+        "Projects that helped me learn software engineering and solve practical problems.",
       featuredLabel: "Featured project",
       otherLabel: "Other builds",
     },
@@ -120,25 +120,25 @@ export const profile = {
       label: "Collectible badges",
       title: "Achievements.",
       subtitle:
-        "Competitive milestones and recognitions presented as proof-of-work badges.",
+        "Academic, competitive programming, and hackathon achievements.",
     },
     statistics: {
       label: "Coding statistics",
       title: "By the numbers.",
       subtitle:
-        "A quick visual read on output, technical range, competitions, and learning momentum.",
+        "Numbers that reflect my projects, coding practice, and achievements.",
     },
     highlights: {
       label: "Resume highlights",
       title: "Why Sunny.",
       subtitle:
-        "A concise recruiter-friendly snapshot extracted from the resume.",
+        "Key strengths and experiences.",
     },
     contact: {
       label: "Reach out",
       title: "Let's build something useful.",
       subtitle:
-        "If you are hiring for full-stack, Java, backend, or product-engineering roles, I would be happy to talk.",
+        "If you'd like to discuss opportunities, projects, or collaborations, feel free to reach out.",
     },
   },
 
@@ -193,7 +193,7 @@ export const profile = {
     description:
       "I am a Computer Science student at BIET Jhansi who likes building products where the backend actually does the heavy lifting. My projects focus on secure authentication, role-based workflows, REST APIs, database design, caching, deployment, and practical UX.",
     highlight:
-      "I enjoy building scalable, user-focused applications by combining strong backend architecture, efficient databases, and modern frontend technologies to deliver reliable end-to-end solutions.",
+      "I enjoy building software from idea to deployment, with a focus on backend systems, databases, and user experience.",
     interests: [
       "Full-stack systems",
       "Java and Spring Boot",
