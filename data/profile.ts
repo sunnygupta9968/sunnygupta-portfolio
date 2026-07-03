@@ -363,9 +363,9 @@ institution: "Bundelkhand Institute of Engineering and Technology, Jhansi",
 degree: "B.Tech - Computer Science and Engineering",
 duration: "2023 - 2027",
 description:
-"CGPA: 8.31. Focused on software engineering, data structures and algorithms, object-oriented programming, database systems, operating systems, and full-stack development.",
+"CGPA: 8.0 Focused on software engineering, data structures and algorithms, object-oriented programming, database systems, operating systems, and full-stack development.",
 location: "Jhansi, Uttar Pradesh",
-score: "CGPA 8.31",
+score: "CGPA 8.0"
 },
 ],
 
