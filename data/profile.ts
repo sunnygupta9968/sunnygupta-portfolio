@@ -11,10 +11,6 @@ keywords: [
 "Full-Stack Developer",
 "Java Developer",
 "Spring Boot Developer",
-"React Developer",
-"Next.js Developer",
-"Competitive Programmer",
-"B.Tech CSE",
 ],
 copyright:
 "A collection of projects, experiences, and continuous learning.",
@@ -199,8 +195,7 @@ interests: [
 "Java and Spring Boot",
 "Problem solving",
 "Authentication flows",
-"Database design",
-"Clean UI",
+"Database design"
 ],
 values: {
 title: "How I like to build",
@@ -280,7 +275,7 @@ skills: ["LeetCode", "GeeksforGeeks", "Codeforces", "700+ problems"],
 {
 category: "AI / ML",
 color: "#A78BFA",
-skills: ["Supervised ML", "Regression", "Classification", "Gradient Descent", "Feature Engineering"],
+skills: ["Supervised ML", "Regression", "Classification", "Gradient Descent", "Feature Engineering","Langchain"],
 },
 ],
 
@@ -326,19 +321,9 @@ icon: "Trophy",
 technologies: ["48 hours", "1st place", "Teamwork"],
 },
 {
-type: "Project",
-title: "DropIt File Sharing",
-date: "May 2026",
-description:
-"Built a temporary file-sharing platform using Spring Boot, React, Redis, Docker, Render, and Vercel.",
-color: "#5B8CFF",
-icon: "Send",
-technologies: ["Spring Boot", "React", "Redis"],
-},
-{
 type: "Achievement",
 title: "GATE CS/IT AIR 5159",
-date: "2026",
+date: "Mar 2026",
 description:
 "Earned All India Rank 5159 in GATE CS/IT while continuing project and competitive programming work.",
 color: "#F9C74F",
@@ -346,15 +331,15 @@ icon: "Medal",
 technologies: ["AIR 5159", "GATE 2026"],
 },
 {
-type: "Career Growth",
-title: "Graduation Track",
-date: "2027",
+type: "Project",
+title: "DropIt File Sharing",
+date: "May 2026",
 description:
-"Preparing for full-stack, backend, and product-engineering opportunities after B.Tech CSE.",
-color: "#69D2FF",
-icon: "Rocket",
-technologies: ["Full-stack", "Backend", "Product"],
-},
+"Built a temporary file-sharing platform using Spring Boot, React, Redis, Docker, Render, and Vercel.",
+color: "#5B8CFF",
+icon: "Send",
+technologies: ["Spring Boot", "React", "Redis","PostgresSql"],
+}
 ],
 
 education: [
